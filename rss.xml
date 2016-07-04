@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dream then Do]]></title>
-        <description><![CDATA[Dream then Do]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dream then Do - A photo site by Adrian Tuazon Photography]]></title>
+        <description><![CDATA[Dream then Do - A photo site by Adrian Tuazon Photography]]></description>
+        <link>https://thegrid.ai/dream-then-do/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 04:54:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 05:04:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dream-then-do/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeb9443f-355a-46a5-9ec6-c0062b085dca.jpg">]]></description>
+            <link>https://thegrid.ai/dream-then-do/nyc-truck/index.html</link>
+            <guid isPermaLink="false">cde41d75-8b36-4fca-a64d-df868b61db0b</guid>
+            <pubDate>Mon, 04 Jul 2016 05:04:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f90147-5d93-4cd4-90ea-59ca37a0099c.jpg">]]></description>
-            <link>undefinednyc-rain/index.html</link>
+            <link>https://thegrid.ai/dream-then-do/nyc-rain/index.html</link>
             <guid isPermaLink="false">00533a78-7146-44b7-927a-6f71b796f5b1</guid>
             <pubDate>Mon, 04 Jul 2016 04:53:41 GMT</pubDate>
         </item>
