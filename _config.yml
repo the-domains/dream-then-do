@@ -1,0 +1,28 @@
+name: Dream then Do
+favicon: null
+layout_spectrum: 0.192162781720981
+typography_spectrum: 0.6122104423120618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9805610608309507
+  lightness: 0.6706723212264478
+  saturation: 0.4418553716968745
+  rhythmicContrast: 0.7175647260155529
+purpose: []
