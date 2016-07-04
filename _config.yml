@@ -1,6 +1,6 @@
 name: Dream then Do
 favicon: null
-layout_spectrum: 0.12908
+layout_spectrum: 0.12756
 typography_spectrum: 0.68843
 title: Dream then Do
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.9805610608309507
-  lightness: 0.6706723212264478
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.7175647260155529
+  rhythmicContrast: 0.25
 purpose: []
